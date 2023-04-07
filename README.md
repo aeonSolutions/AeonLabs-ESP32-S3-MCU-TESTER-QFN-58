@@ -11,8 +11,8 @@ This is the PCB for testing QFN-58 ESP32 S3 MCus. Features
 <br>
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_back.png" heigth=350>
-<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_front.png" heigth=350>  
+<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_back.png" height=350>
+<img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_front.png" height=350>  
 </p>
 
 
