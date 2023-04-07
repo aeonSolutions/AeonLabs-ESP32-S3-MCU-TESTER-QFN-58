@@ -1,5 +1,5 @@
 # AeonLabs ESP32-S3 MCU Tester QFN-58
-This is the PCB for testing QFN-58 ESP32 S3 MCus. Features
+This is the PCB for testing QFN-58 ESP32 S3 MCUs. Features
 
 - QFN-58 Socket Adapter
 - 1.69" LCD TFT Display 
