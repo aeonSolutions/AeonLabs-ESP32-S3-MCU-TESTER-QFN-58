@@ -1,12 +1,14 @@
 # AeonLabs ESP32-S3 MCU Tester QFN-58
 This is the PCB for testing QFN-58 ESP32 S3 MCus. Features
 
-- onboard Flash SPi
--  pSRAM
--  Motion Sensor
--  Temperature & Humidity
--  ADC 3 pin external SH connector  
--  I2C 4 pin external connector
+- QFN-58 Socket Adapter
+- 1.69" LCD TFT Display 
+- Flash SPi
+- pSRAM
+- Motion Sensor
+- Temperature & Humidity
+- ADC 3 pin external SH connector  
+- I2C 4 pin external connector
 
 <br>
 
