@@ -48,6 +48,7 @@ This is the PCB for testing QFN-58 ESP32 S3 MCUs. Features
 - [AHT20 Temperature and Humidty Sensor](https://s.click.aliexpress.com/e/_DdYy9Eh)
 - [LSM6DS3 Motion Senot](https://s.click.aliexpress.com/e/_DCvsYup)
 - [1.69" LCD TFT Display](https://s.click.aliexpress.com/e/_DDNuTk9)
+- [PCB electonics on this repository]() [soon. Stay tuned!]
 
 
 
