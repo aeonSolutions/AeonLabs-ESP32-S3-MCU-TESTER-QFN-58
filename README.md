@@ -1,4 +1,4 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)  >>  ESP32-S3-MCU-TESTER-QFN-58
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [DIY & Maker](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md)  >>  ESP32-S3-MCU-TESTER-QFN-56
 
 
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
@@ -18,7 +18,7 @@
 
 <br />
 
-# AeonLabs ESP32-S3 MCU Tester QFN-58
+# AeonLabs ESP32-S3 MCU Tester QFN-56
 This is the PCB for testing QFN-58 ESP32 S3 MCUs. Features
 
 - QFN-58 Socket Adapter
@@ -36,6 +36,19 @@ This is the PCB for testing QFN-58 ESP32 S3 MCUs. Features
 <img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_back.png" height=350>
 <img src="https://github.com/aeonSolutions/AeonLabs-ESP32-S3-MCU-TESTER-QFN-58/blob/main/Designs/pcb_front.png" height=350>  
 </p>
+
+
+<br>
+
+## Parts List
+
+- [ESP32 S3 MCU QFN56 Socket Adapter](https://s.click.aliexpress.com/e/_DdzJoFf)
+- [ESP32 S3 MCU QFN-56](https://s.click.aliexpress.com/e/_DcupSY1)
+- [CH9102F USB to UART IC](https://s.click.aliexpress.com/e/_DDIwXdf)
+- [AHT20 Temperature and Humidty Sensor](https://s.click.aliexpress.com/e/_DdYy9Eh)
+- [LSM6DS3 Motion Senot](https://s.click.aliexpress.com/e/_DCvsYup)
+- [1.69" LCD TFT Display](https://s.click.aliexpress.com/e/_DDNuTk9)
+
 
 
 <br>
