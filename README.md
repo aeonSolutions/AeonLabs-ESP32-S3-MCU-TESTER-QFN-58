@@ -19,7 +19,7 @@
 <br />
 
 # AeonLabs ESP32-S3 MCU Tester QFN-56
-This is the PCB for testing QFN-58 ESP32 S3 MCUs. Features
+This is the PCB for testing QFN-56 ESP32 S3 MCUs. Features
 
 - QFN-56 Socket Adapter
 - 1.69" LCD TFT Display 
