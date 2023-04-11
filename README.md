@@ -28,7 +28,7 @@ This is the PCB for testing QFN-56 ESP32 S3 MCUs. Features
 - Motion Sensor
 - Temperature & Humidity
 - ADC 3 pin external SH connector  
-- I2C 4 pin external connector
+- I2C 4 pin external SH connector
 
 <br>
 
